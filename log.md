@@ -17,5 +17,5 @@
 **Thoughts** While I made a couple of similar mistakes as last night (in particular with command line Git and GitHub), overall I'm happy to have had a second attempt at the process completed yesterday. Practice makes progress, yes? I felt much more capable tonight, and I moved through the task much quicker as well. Now I just need to get beyond these boilerplate apps, lol, and start providing viewable content to visitors and users!
 
 **Link(s) to work**
-1. [Development Website](https://ssws-kojrey.pythonanywhere.com/)
+1. [SSWS Development Website](https://ssws-kojrey.pythonanywhere.com/)
 2. [GitHub Repo of SSWS Website](https://github.com/axel-t81/ssws-privatepractice-website)
