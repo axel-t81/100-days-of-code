@@ -19,12 +19,12 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: 24-Feb-25, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Set up a boilerplate Django App on my personal portfolio website, kojreycodes.com
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** It took much longer than planned, but I managed to use SSH to connect with the server from a local terminal in VS Code, as well as work out basic Git commands so I could push the revamped code to GitHub.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Personal Portfolio Website](https://kojreycodes.com)
+2. [GitHub Repo of Personal Portfolio Website](https://github.com/axel-t81/kojrey-portfolio-site)
