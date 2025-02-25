@@ -1,24 +1,5 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
 ### Day 1: 24-Feb-25, Monday
 
 **Today's Progress**: Set up a boilerplate Django App on my personal portfolio website, kojreycodes.com
@@ -28,3 +9,13 @@
 **Link(s) to work**
 1. [Personal Portfolio Website](https://kojreycodes.com)
 2. [GitHub Repo of Personal Portfolio Website](https://github.com/axel-t81/kojrey-portfolio-site)
+
+### Day 2: 25-Feb-25, Tuesday
+
+**Today's Progress**: Set up a second boilerplate Django App, but this time for a real-world business website for a soon-to-be established social work private practice based in Australia.
+
+**Thoughts** While I made a couple of similar mistakes as last night (in particular with command line Git and GitHub), overall I'm happy to have had a second attempt at the process completed yesterday. Practice makes progress, yes? I felt much more capable tonight, and I moved through the task much quicker as well. Now I just need to get beyond these boilerplate apps, lol, and start providing viewable content to visitors and users!
+
+**Link(s) to work**
+1. [Development Website](https://ssws-kojrey.pythonanywhere.com/)
+2. [GitHub Repo of SSWS Website](https://github.com/axel-t81/ssws-privatepractice-website)
