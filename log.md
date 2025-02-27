@@ -28,5 +28,3 @@
 **Link(s) to work**
 1. [Personal Portfolio Website](https://kojreycodes.com)
 2. [GitHub Repo of Personal Portfolio Website](https://github.com/axel-t81/kojrey-portfolio-site)
-
-### Day 2: 25-Feb-25, Tuesday
