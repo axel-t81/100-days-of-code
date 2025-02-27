@@ -18,3 +18,15 @@
 
 **Link(s) to work**
 1. [GitHub Repo of SSWS Website](https://github.com/axel-t81/ssws-privatepractice-website)
+
+### Day 3: 27-Feb-25, Thursday
+
+**Today's Progress**: Set up my local environment so I can change my workflow to allow building locally, then pushing to server. As opposed to doing evrything live on a production server. 
+
+**Thoughts** Very happy! A few more things are beginning to look more familiar and click. I'm also very happy with the support I am getting from GenAI! Not neccessarily just cutting and pasting the AI's code, but instead using AI as a private tutor, or personalised StackOverflow, and then trying to using any AI as a template to read, ideally understand, and then customise.
+
+**Link(s) to work**
+1. [Personal Portfolio Website](https://kojreycodes.com)
+2. [GitHub Repo of Personal Portfolio Website](https://github.com/axel-t81/kojrey-portfolio-site)
+
+### Day 2: 25-Feb-25, Tuesday
