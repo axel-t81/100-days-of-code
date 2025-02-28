@@ -28,3 +28,12 @@
 **Link(s) to work**
 1. [Personal Portfolio Website](https://kojreycodes.com)
 2. [GitHub Repo of Personal Portfolio Website](https://github.com/axel-t81/kojrey-portfolio-site)
+
+### Day 4: 28-Feb-25, Friday
+
+**Today's Progress**: Set up the core app within Django of the social work private practice app. Again, like yesterday, have moved the build to my local environment. And thanks to DeepSeek and Claude, I have a good plan moving forwward based on their initial ideas and my personalised feedback. 
+
+**Thoughts** Parts of me keeps thinking I have to learn more and know more before I start trying to 'cheat' with tools like Claude and DeepSeek, but the other part of me is realising this field of study is never-ending. I could study a lifetime, and still not have 'full knowledge'. Further, as more advanced LLMs are released again and again it's beginning to dawn on me that the way to learn and to build has fundamentally changed. I genuinely think I have learned more about implementing Django applications from reading the plans and code of DeepSeek and Claude and asking them questions about it than I had in a good few months of trying to traditionally learning to be a Django developer. So, I am going to test using LLMs to more rapidly build apps and see how far this way of studying and building can take me (with the caveat that I'm still maintaining my traditional student status in my IT masters for the foreseeable future).
+
+**Link(s) to work**
+1. [GitHub Repo of SSWS Website](https://github.com/axel-t81/ssws-privatepractice-website)
