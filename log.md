@@ -37,3 +37,12 @@
 
 **Link(s) to work**
 1. [GitHub Repo of SSWS Website](https://github.com/axel-t81/ssws-privatepractice-website)
+
+### Day 5: 9-Mar-25, Sunday
+
+**Today's Progress**: Have new set of requirements for the social work business app. Worked with DeepSeek and Claude to develop new build plan based on these requirements. Actual progress was getting a new venv sorted out after I couldn't work out how to access the old one. 
+
+**Thoughts** This was very slow progress tonight. Due to a change in circumstances at home I had to step away from this project and coding for over a week, and some of the lessons and muscle memory had been lost since my last attempt. In reality, tonight's effort was more about finding my feet again and preparing for another push (both with this project, and with the #100daysOfCode).
+
+**Link(s) to work**
+1. [GitHub Repo of SSWS Website](https://github.com/axel-t81/ssws-privatepractice-website)
