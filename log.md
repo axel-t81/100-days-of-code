@@ -46,3 +46,12 @@
 
 **Link(s) to work**
 1. [GitHub Repo of SSWS Website](https://github.com/axel-t81/ssws-privatepractice-website)
+
+### Day 6: 10-Mar-25, Monday
+
+**Today's Progress**: With new requirements to just make landing page, have created a skeleton landing page and tested locally, and then uploaded this skeleton site to testing server and domain. Made a few obvious styling and content tweaks (via some HTML and CSS changes within a Django App), but now just waiting on style and content requests from business. 
+
+**Thoughts** Good progress today. Actually coded in 2x 1-hr blocks today instead of one. Lessons were learned about how Django handles front ends, and while DeepSeek and Claude offered great codes templates, I found it was their 'tutoring' content around this snippets and code templates to be the most valuable. I used to think GenAI was often too verbose in answering questions, but when your a student the added context and detail is invaluable.
+
+**Link(s) to work**
+1. [GitHub Repo of SSWS Website](https://github.com/axel-t81/ssws-privatepractice-website)
