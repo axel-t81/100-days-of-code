@@ -55,3 +55,12 @@
 
 **Link(s) to work**
 1. [GitHub Repo of SSWS Website](https://github.com/axel-t81/ssws-privatepractice-website)
+
+### Day 7: 12-Mar-25, Wednesday
+
+**Today's Progress**: Began a rebuild of a dormant project, google-calendar-economic-events, as I haven't yet had the requirements finalised for ssws-privatepractice-website. This app yet isn't yet operating on my local server, but there is the bare bones setup that will allow me to work through a debugging process. So the repo isn't yet functional, but I hope to provide useable updates soon.
+
+**Thoughts** Made huge leaps in progress today due to stumbling upon Cursor AI while sorting on my email inbox. And while I have used both the Claude and DeepSeek platforms for coding help, Cursor is just at a completely different level. To have all the AI assistance embedded in the IDE, that itself is a mimic of VS Code is an absolute game changer. It's very exciting!
+
+**Link(s) to work**
+1. [GitHub Repo of Googele Calendar Economic Events](https://github.com/axel-t81/google-calendar-economic-events)
