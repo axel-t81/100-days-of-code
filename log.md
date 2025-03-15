@@ -63,4 +63,13 @@
 **Thoughts** Made huge leaps in progress today due to stumbling upon Cursor AI while sorting on my email inbox. And while I have used both the Claude and DeepSeek platforms for coding help, Cursor is just at a completely different level. To have all the AI assistance embedded in the IDE, that itself is a mimic of VS Code is an absolute game changer. It's very exciting!
 
 **Link(s) to work**
-1. [GitHub Repo of Googele Calendar Economic Events](https://github.com/axel-t81/google-calendar-economic-events)
+1. [GitHub Repo of Google Calendar Economic Events](https://github.com/axel-t81/google-calendar-economic-events)
+
+### Day 8: 13-Mar-25, Thursday
+
+**Today's Progress**: Added a simple front end to the Google Calendar Economic Events app. This allowed me test the functionality. This testing led to app pivoting from Economic data events to an Earnings release events app. From here, I am now working through page by page to test functionality and optimise the UX. PS: Due to this app pivot, I have also renamed the repo (see below).
+
+**Thoughts** Still very much enjoying using Cursor as an assistance tool, but have done some digging into what is now known as 'vibe coding' and its accompanying pitfalls. While I'm still very much an advocate for using AI tools like this, I do concede that I need to get my software engineering skills and software development process knowledge both up to a high level. That is, any app built that is assisted heavily using AI will become insecure and unscalable unless I have a very structured process and very good understanding of what's going on under the hood. For now, with these practice apps all is okay, but an awareness of the tools and my own limitations is imperative.
+
+**Link(s) to work**
+1. [GitHub Repo of Earnings Calendar to Google Calendar](https://github.com/axel-t81/earnings-calendar-to-google-calendar)
