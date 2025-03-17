@@ -82,3 +82,23 @@
 
 **Link(s) to work:**
 1. [Link to COSC210 Database Management Systems at the University of New England (UNE)](https://www.une.edu.au/study/units/database-management-systems-cosc210)
+
+### Day 10: 16-Mar-25, Sunday
+
+**Today's Progress:** Finished and submitted the assignment for UNE's COSC210 Practical Assignment 1. This involved using an running an SQL script in a Linux environment to create the tables/relations for a movie store & streaming business database. We used PostgreSQL and the table set up required primary, foreign, and composite keys, and involved setting up applicable constraints to maintain data integrity.
+
+**Thoughts:** This assignment was harder than expected, after I had incorrectly assumed a Week 4 1st assignment would be relatively easy. But the actual coding took longer than expected, the constraints required more professional judgement than expected, and working with .sql files and the psql tool was completely new to me. Overall, I'm not sure how I did in the assignment, but I am very happy that I addressed it when I did, and that I now have this experience and exposure under my belt.
+
+**Link(s) to work:**
+1. [Link to COSC210 Database Management Systems at the University of New England (UNE)](https://www.une.edu.au/study/units/database-management-systems-cosc210)
+
+### Day 11: 17-Mar-25, Monday
+
+**Today's Progress:** Today I went right back to basics via building a static site in HTML, CSS, and JavaScript. This site, that will be hosted on GitHub Pages is for a side-hustle that I ran while I was an undergraduate student at UTS. Since sales had dropped off significantly since the old site was closed, I thought I'd relaunch the site in the hope it might give my monthly passive income a boost. The site still needs a lot of work, but now at least we have a template to work with.
+
+**Thoughts:** While the site was again assisted by Cursor AI's agentic tools, this time I tried step back and follow a more methodical software development process as opposed to just jumping right into my IDE and smashing in the prompts. I had created another stand-alone file to, firstly, document my Requirements, and then secondly, outline the Design of the website. While the process was rapid, I believe it fundamentally improved the Implementation of the site when creating the structure of the HTML, CSS and JS files & folders.
+
+**Link(s) to work:**
+1. [Accofina Website](https://axel-t81.github.io/accofina-content-publishing/)
+2. [GitHub Repo of Accofina](https://github.com/axel-t81/accofina-content-publishing)
+
