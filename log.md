@@ -102,3 +102,42 @@
 1. [Accofina Website](https://axel-t81.github.io/accofina-content-publishing/)
 2. [GitHub Repo of Accofina](https://github.com/axel-t81/accofina-content-publishing)
 
+### Day 12: 18-Mar-25, Tuesday
+
+**Today's Progress:** This day was much about setting up the hosting on GitHub Pages. It had been a while since I had mucked around with name servers and DNS settings, and thus it took me much longer than expected to get the site up and running. Thankfully, it is now working after some trial and error, and waiting for propogation times.
+
+**Thoughts:** Completing this update a few days late, so (1) I don't really remember my thoughts that much from this time anymore, and (2) I don't think it's best to guess(?) what my thoughts were at the time ex post.
+
+**Link(s) to work:**
+1. [Accofina Website](https://axel-t81.github.io/accofina-content-publishing/)
+2. [GitHub Repo of Accofina](https://github.com/axel-t81/accofina-content-publishing)
+
+### Day 13: 19-Mar-25, Wednesday
+
+**Today's Progress:** This day's effort was about styling and making the UI more appealing and less like the boilerplate that Cursor created. I added a couple of images and made changes to the navbar, but the color scheme changes were the main change.
+
+**Thoughts:** Completing this update a few days late, so (1) I don't really remember my thoughts that much from this time anymore, and (2) I don't think it's best to guess(?) what my thoughts were at the time ex post.
+
+**Link(s) to work:**
+1. [Accofina Website](https://axel-t81.github.io/accofina-content-publishing/)
+2. [GitHub Repo of Accofina](https://github.com/axel-t81/accofina-content-publishing)
+
+### Day 14: 20-Mar-25, Thursday
+
+**Today's Progress:** With a boilerplate app on GitHub pages, and the styling being polished up, today was about customising the content of the site as well as adding GA4 code to start tracking any visitors. I updated the listed skills and added my qualifications to the site. Next up, I need to sort out better functionality for the Contact section.
+
+**Thoughts:** Completing this update a few days late, so (1) I don't really remember my thoughts that much from this time anymore, and (2) I don't think it's best to guess(?) what my thoughts were at the time ex post.
+
+**Link(s) to work:**
+1. [Accofina Website](https://axel-t81.github.io/accofina-content-publishing/)
+2. [GitHub Repo of Accofina](https://github.com/axel-t81/accofina-content-publishing)
+
+### Day 15: 21-Mar-25, Friday
+
+**Today's Progress:** Similar to previous few days efforts, I worked with styling the app. I learned how and where CSS is accessed and changed in a Django project, and I updated the colour scheme, made a few content changes to improve the UI, and did a fair bit of work in PhotoShop and Canva to try and sort out an image I wanted to use.
+
+**Thoughts:** Feel good today, and actually considering I may be more of a front end person that I originally imagined. While starting to learn Python and PostgreSQL had made me think that I was aiming at the back end, I do seem to get a sense of joy about updating the UI with just simple design changes.
+
+**Link(s) to work:**
+1. [GitHub Repo of Earnings Calendar to Google Calendar](https://github.com/axel-t81/earnings-calendar-to-google-calendar)
+
