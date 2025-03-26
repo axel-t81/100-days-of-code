@@ -141,3 +141,12 @@
 **Link(s) to work:**
 1. [GitHub Repo of Earnings Calendar to Google Calendar](https://github.com/axel-t81/earnings-calendar-to-google-calendar)
 
+### Day 16: 26-Mar-25, Wednesday
+
+**Today's Progress:** Updates to the UX. Overall, trying to turn an AI-assisted template into something more user-friendly and customised to what I was after. Today was about working with the home page, before soon moving onto the main feature second (of 2) page. At this point: I'm adding a contact form via a 3rd party service while using guidance from Claude.
+
+**Thoughts:** Haven't felt good today, either in my coding tonight or in my study earlier today. After taking care of some household responsibilities and some government paperwork for the past few days I have lost my routine and muscle memory that I had built up the prior weeks. I'm confident I'll find my groove again, but I was a bit shocked how far a 5 day break set me back.
+
+**Link(s) to work:**
+1. [GitHub Repo of Earnings Calendar to Google Calendar](https://github.com/axel-t81/earnings-calendar-to-google-calendar)
+
